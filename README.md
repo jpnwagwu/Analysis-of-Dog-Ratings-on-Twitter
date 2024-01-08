@@ -1,3 +1,6 @@
-# Wrangle-Data
+# Analysis of Twitter Dog Ratings
 
-Data Wrangling Process
+The act_report.pdf file contains a description of my thought process and actions carried out on the dataset. This was mainly an exploratory analysis and gave me an insight into potential areas worth digging into
+
+The wrangle_act file contains steps taken in data wrangling from downloading the data via the Twitter API, to cleaning the data for analysis
+
